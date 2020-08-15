@@ -1,0 +1,8 @@
+{
+  "name": "covidTracker",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
